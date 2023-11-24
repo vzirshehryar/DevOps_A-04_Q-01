@@ -24,4 +24,4 @@ jobs:
       run: docker build -t vzirshehryar/devops_a-04_q-01 .
 
     - name: Push the Docker image
-      run: docker push vzirshehryar/DevOps_A-04_Q-01
+      run: docker push vzirshehryar/devops_a-04_q-01
